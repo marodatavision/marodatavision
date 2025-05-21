@@ -1,8 +1,38 @@
-- 👋 Hi, I’m @marodatavision
-- 👀 I’m interested in Web-Dev and Data Science
-- 🌱 I’m currently learning Laravel and React
-- 💞️ I’m looking to collaborate on any Laravel Web Projects
-- 📫 How to reach me ...
+## 👋 About Me
+
+I'm a **Data Engineer and Full-Stack Developer** with a strong focus on performance, scalability, and clean architecture. I prefer to build robust and efficient solutions using modern technologies like:
+
+- **Backend**: Python (Django, FastAPI), Node.js, C#
+- **Frontend**: React, TypeScript, Tailwind, Vite
+- **Databases**: PostgreSQL, MongoDB, MS SQL
+- **Cloud & DevOps**: Docker, CI/CD, Azure, fly.io
+- **Data Engineering**: Power BI, Microsoft Fabric, ETL pipelines, data modeling
+
+---
+
+## 🧠 Interests
+
+Outside of work, I'm deeply involved in:
+
+- **Algorithmic Trading**  
+  Developing trading bots using cTrader/cAlgo (C#), including technical & fundamental analysis and backtesting strategies
+
+- **Science & Technology for the Greater Good**  
+  Passionate about exploring scientific insights related to consciousness, collective systems, and the possibility of life beyond death. Committed to contributing to ecological solutions (e.g., carbon capture and storage)
+
+---
+
+## 💼 Goals
+
+I'm planning to **start a side business as an IT consultant** (Power BI, Microsoft Fabric, data analysis). My mission is to drive sustainable digitalization, data transparency, and solutions that benefit society and the environment.
+
+---
+
+## 📫 Contact
+
+Open to networking, collaboration, and exciting open-source projects.  
+Feel free to reach out via GitHub.
+
 
 <!---
 marodatavision/marodatavision is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
