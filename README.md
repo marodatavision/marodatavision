@@ -18,13 +18,13 @@ Outside of work, I'm deeply involved in:
   Developing trading bots using cTrader/cAlgo (C#), including technical & fundamental analysis and backtesting strategies
 
 - **Science & Technology for the Greater Good**  
-  Passionate about exploring scientific insights related to consciousness, collective systems, and the possibility of life beyond death. Committed to contributing to ecological solutions (e.g., carbon capture and storage)
+  Passionate about exploring scientific insights related to consciousness, collective systems, and the possibility of life beyond death. Committed to contributing to ecological or agricultural solutions (e.g., carbon capture and storage or efficient farming)
 
 ---
 
 ## 💼 Goals
 
-I'm planning to **start a side business as an IT consultant** (Power BI, Microsoft Fabric, data analysis). My mission is to drive sustainable digitalization, data transparency, and solutions that benefit society and the environment.
+My goal is to grow technically – from an experienced mid-level developer to a true senior. In particular, I want to deepen my expertise in AI-powered assistant systems and actively contribute to building products that deliver real value to people.
 
 ---
 
